@@ -24,7 +24,7 @@ print("Greetings 👋👋")
 ###  &nbsp; 🤝🏻 Connect with Me:
 
 
- 💬 &nbsp;Feel free to reach out anytime.
+ 💬 &nbsp;Feel free to reach me out anytime.
 
  ✉️ &nbsp;You can shoot me an email at javier.crespo.s@gmail.com. I'll try to respond as soon as I can.
 
