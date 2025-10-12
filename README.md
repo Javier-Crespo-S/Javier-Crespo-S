@@ -5,10 +5,10 @@ print("Greetings 👋👋")
 
 ### 👨🏻‍💻 &nbsp;About Me 
 
-🎓 Full-Stack Developer student, always learning and building new things.
-🚀 Passionate about technology and mobile apps.
-💡 Constantly growing, curious, and ready for new challenges.
-🌿☕ Nature lover, travel enthusiast, and coffee addict.
+- 🎓 Full-Stack Developer student, always learning and building new things.
+- 🚀 Passionate about technology and mobile apps.
+- 💡 Constantly growing, curious, and ready for new challenges.
+- 🌿☕ Nature lover, travel enthusiast, and coffee addict.
 
 ##  &nbsp; 🚀 Tech Stack:
 
@@ -22,8 +22,11 @@ print("Greetings 👋👋")
 
 ### 🤝🏻 &nbsp;Connect with Me
 
+
 💬 &nbsp;Feel free to reach out anytime.
+
 ✉️ &nbsp;You can shoot me an email at javier.crespo.s@gmail.com. I'll try to respond as soon as I can.
+
 👥 &nbsp; Follow me at [LinkedIn] (www.linkedin.com/in/javier-crespo-salinas-558b84385)!
 
 
