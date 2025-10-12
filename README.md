@@ -17,7 +17,7 @@ print("Greetings 👋👋")
 
 ##  &nbsp; 🌱 Learning:
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Pythonnn](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -27,7 +27,7 @@ print("Greetings 👋👋")
 
 ✉️ &nbsp;You can shoot me an email at javier.crespo.s@gmail.com. I'll try to respond as soon as I can.
 
-👥 &nbsp; Follow me at [LinkedIn] (www.linkedin.com/in/javier-crespo-salinas-558b84385)!
+👥 &nbsp; Follow me at LinkedIn (www.linkedin.com/in/javier-crespo-salinas-558b84385)!
 
 
 
