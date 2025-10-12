@@ -21,7 +21,7 @@ print("Greetings 👋👋")
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-### 🤝🏻 &nbsp;Connect with Me
+###  &nbsp; 🤝🏻 Connect with Me:
 
 
 💬 &nbsp;Feel free to reach out anytime.
