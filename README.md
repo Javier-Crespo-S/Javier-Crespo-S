@@ -28,7 +28,7 @@ print("Greetings 👋👋")
 
  ✉️ &nbsp;You can shoot me an email at javier.crespo.s@gmail.com. I'll try to respond as soon as I can.
 
- 👥 &nbsp; Follow me at [LinkedIn](www.linkedin.com/in/javier-crespo-salinas-558b84385)
+ 👥 &nbsp; Follow me at [LinkedIn](https://www.linkedin.com/in/javier-crespo-salinas-558b84385)
  
 
  
