@@ -1,11 +1,11 @@
 print("Greetings 👋👋") 
-## I'm Javier - an aspiring Software Developer, passionate about building innovative solutions.
+## I'm Javier - a Software Developer, passionate about building innovative solutions.
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ### 👨🏻‍💻 &nbsp;About Me 
 
-- 🎓 Full-Stack Developer student, always learning and building new things.
+- 🎓 Full-Stack Developer, always learning and building new things.
 - 🚀 Passionate about technology and mobile apps.
 - 💡 Constantly growing, curious, and ready for new challenges.
 - 🌿☕ Nature lover, travel enthusiast, and coffee addict.
